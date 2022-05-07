@@ -9,8 +9,8 @@ tags: bioinformatics, Mendelian randomization, horizontal pleiotropic effects, a
 ---
 
 - 题目：Likelihood based Mendelian randomization analysis with automated instrument selection and horizontal pleiotropic modeling
+- Zoom会议链接：[https://us06web.zoom.us/j/86101464725?pwd=bXphV2NYdGRZeVRaZys0WnNjczF4Zz09](https://us06web.zoom.us/j/86101464725?pwd=bXphV2NYdGRZeVRaZys0WnNjczF4Zz09)
 - 地点：- Zoom会议 ID：861 0146 4725 密码：269044
-- Zoom会议链接：https://us06web.zoom.us/j/86101464725?pwd=bXphV2NYdGRZeVRaZys0WnNjczF4Zz09
 - 主讲人袁中尚，山东大学生物统计学系教授，博导，齐鲁青年学者，国家健康医疗大数据研究院跨组学研究中心PI，博士毕业于武汉大学概率论与数理统计专业，国际生物统计学会中国分会副秘书长，中国卫生信息与健康医疗大数据学会统计理论与方法专委会委员，中国数学会医学数学专委会委员。先后访问美国北卡大学(UNC-CH)生物统计学系、密歇根大学生物统计学系/统计遗传中心，主要研究方向为跨组学数据整合与系统流行病学统计理论方法，先后主持国家自然科学基金项目4项、省基金重大基础研究1项，国家重点研发计划子课题等，成果以方法学论文先后发表在Science advances、Nature Communications、American Journal of Human Genetics、Statistics in Medicine等杂志, 参编专著1部。
 
 <div align="center">
