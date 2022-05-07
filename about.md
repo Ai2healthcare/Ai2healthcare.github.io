@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 首页
-header: About IHS
+title: main
+header: main
 group: navigation
 ---
 

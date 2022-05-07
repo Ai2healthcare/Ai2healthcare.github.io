@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 组织管理
+title: Organization
 header: 
 group: navigation
 ---
