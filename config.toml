@@ -1,4 +1,4 @@
-baseurl = "https://Ai2healthcare.co/"
+baseurl = "https://Ai2healthcare.github.io"
 languageCode = "zh-CN"
 title = "人工智能在线讨论"
 theme = "hugo-xmag"
