@@ -1,12 +1,11 @@
 ---
-title: '03-31-2022 两样本孟德尔随机化(Mendelian randomization, MR)联合似然MRAID统计方法进行因果分析推断'
-date: '2022-03-31'
-archive: ["2022", "2022-03", "2022-03-31"]
-categories:
-  - 学术报告
-tags: [talks, Mendelian randomization, horizontal pleiotropic effects, automated instrument selection, joint likelihood framework, Gibbs sampling]
-show_comments: true
-thumbnail: ""
+layout: post
+title: "两样本孟德尔随机化(Mendelian randomization, MR)联合似然MRAID统计方法进行因果分析推断"
+author: Zhongshan Yuan
+date: 2022-03-31
+categories: bioinformatics
+image: images/2022_Zhongshang_Yuan.jpg
+tags: bioinformatics, Mendelian randomization, horizontal pleiotropic effects, automated instrument selection, joint likelihood framework, Gibbs sampling
 ---
 
 - 题目：Likelihood based Mendelian randomization analysis with automated instrument selection and horizontal pleiotropic modeling
