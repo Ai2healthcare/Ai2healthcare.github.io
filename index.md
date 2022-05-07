@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Ai2healthcare
-tagline: Virtual Artificial Intelligence Institute
+title: 
+tagline: Intelligence Health Society
 ---
 {% include JB/setup %}
 
