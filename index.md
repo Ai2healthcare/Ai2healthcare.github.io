@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 
-tagline: Intelligence Health Society
+title: Intelligence Health Society
+tagline: 
 ---
 {% include JB/setup %}
 
