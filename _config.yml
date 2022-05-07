@@ -76,7 +76,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : shihchenguo
+      short_name : ai2healthcare
     livefyre :
       site_id : 123
     intensedebate :
@@ -145,4 +145,4 @@ google_analytics:
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
 description: exploring and playing with data in R
-url: https://Shicheng-Guo.github.io
+url: https://ai2healthcare.github.io
