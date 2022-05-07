@@ -1,0 +1,10 @@
+{% if site.JB.sharing.provider and page.sharing != false %}
+
+  {% case site.JB.sharing.provider %}
+	{% when 'tweet' %}
+  		{% include JB/sharing-providers/twitter %}
+	{% when 'all' %}
+  		{% include JB/sharing-providers/global %}
+  {% endcase %}
+
+{% endif %}
