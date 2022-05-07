@@ -1,10 +1,14 @@
 <div id="fb-root"></div>
+
 <ul class="post-share ulno mob">
+
 <!-- Twitter -->
 <li class="tw"><a href="https://twitter.com/share" class="twitter-share-button" data-text="{{ page.title }}" data-via="{{ site.JB.sharing.twitter.via }}" data-related="{{ site.author.twitter }}" data-count="{{ site.JB.sharing.twitter.count }}" data-size="{{ site.JB.sharing.twitter.size }}">Tweet</a>
+
 <!-- Reddit -->
 <li><script type="text/javascript" src="http://www.reddit.com/buttonlite.js?i=4"></script>
 </ul>
+
 <script>
   
 (function(doc, script) {
