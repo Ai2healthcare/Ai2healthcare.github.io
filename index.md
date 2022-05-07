@@ -2,7 +2,6 @@
 layout: page
 title: Ai2healthcare
 tagline: Advance AI in Biomedical, Genomics and Biology Research
-
 ---
 {% include JB/setup %}
 
