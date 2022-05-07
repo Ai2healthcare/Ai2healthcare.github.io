@@ -1,9 +1,9 @@
-baseurl = "https://cgmonline.co/"
+baseurl = "https://Ai2healthcare.co/"
 languageCode = "zh-CN"
-title = "华人基因组学在线沙龙"
+title = "人工智能在线讨论"
 theme = "hugo-xmag"
-disqusShortname = "cgmonline-co"
-googleAnalytics = "UA-48206713-4"
+disqusShortname = "Ai2healthcare.co"
+googleAnalytics = ""
 paginate = 10
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 hasCJKLanguage = true
@@ -95,10 +95,10 @@ disableKinds = ["section"]
   title_tags = "关键词列表"
 
 [params]
-	copyright = "华人基因组学在线沙龙 2020"
-	description = "基因组学在线讨论平台"
+	copyright = "人工智能在线讨论小组 2020"
+	description = "人工智能在线讨论平台"
 
   summary_length = 200
-  github_edit = "https://github.com/cgmonline/cgmonline/edit/master/content/"
+  github_edit = "https://github.com/ai2healthcare/ai2healthcare/edit/master/content/"
 
-  footer = "&copy; 华人基因组学在线沙龙 2021 | [Github](https://github.com/cgmonline) | [YouTube](https://www.youtube.com/channel/UCk4tsPZOzGkP2IaU4YvUG_g)"
+  footer = "&copy; 人工智能在线讨论小组 2021 | [Github](https://github.com/ai2healthcare) | [YouTube](https://www.youtube.com/channel/UCk4tsPZOzGkP2IaU4YvUG_g)"
