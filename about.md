@@ -9,7 +9,8 @@ group: navigation
 
 ![]({{ site.url }}/assets/images/Dr.Momiao.Xiong.jpg){:style="float: left;margin-right: 7px;margin-top: 7px; margin-bottom: 7px; margin-left: 7px; width: 200px"}
 
-Momiao Xiong is a retired Professor of Biostatistics at University of Texas School of Public Health,
+美国华人人工智能及生物医学科技协会是由北美从事人工智能机生物医药研究的华人学者自发组织的非盈利组织。 我们旨在增进从事人工智能机生物科技研究的华人之间的交流、学习和合作。 协会每周将会邀请在自己领域学术突出的学者就自己的研究课题进行学术汇报。
+汇报主要以中文或英文的形式在 YouTube Channel 或者 bilibili 网站直播或录播。 欢迎从事人工智能，计算机科学，遗传学、基因组学、生物信息学、生物统计学、进化生物学，神经生物学，分子生物学相关领域的华人同学（包括本、硕、博和博后）和老师参与。
 
 Email:[Momiao.Xiong@gmail.com](mailto:Momiao.Xiong@gmail.com)
 
