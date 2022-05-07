@@ -26,6 +26,8 @@ Yuan Z, Liu L, Guo P, Yan R, Xue F, Zhou X. Likelihood-based Mendelian randomiza
 # 关键词
 Mendelian randomization, horizontal pleiotropic effects, automated instrument selection, joint likelihood framework, Gibbs sampling
 
+# 相关视频
+
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pc3uQz06gO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
