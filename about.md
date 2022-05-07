@@ -13,6 +13,14 @@ Momiao Xiong is a retired Professor of Biostatistics at University of Texas Scho
 
 Email:[Momiao.Xiong@gmail.com](mailto:Momiao.Xiong@gmail.com)
 
+**Platinum Sponsor!**
+
+**Gold Sponsors!**
+
+**Silver Sponsors!**
+
+**Bronze Sponsors!**
+
 ---
 ## Contact me:
 - [Email](mailto:ai.advanced.healthcare@gmail.com)
@@ -20,3 +28,4 @@ Email:[Momiao.Xiong@gmail.com](mailto:Momiao.Xiong@gmail.com)
 - [Twitter](https://twitter.com/ai.advanced.healthcare)
 - [GoogleScholar](https://scholar.google.com/citations?user=q1VY28gAAAAJ&hl=en)
 ---
+
