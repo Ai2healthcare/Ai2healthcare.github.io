@@ -5,29 +5,29 @@ header:
 group: navigation
 ---
 
-## IHS 指导委员会 (Steering Committee)
+### IHS 指导委员会 (Steering Committee)
 - 2022 - 
 - 2021 -
 
-## IHS 秘书处 （Secretariat)
+### IHS 秘书处 （Secretariat)
 - 2022 -
 - 2021 -
 
-## IHS 执行委员会 (Executive Committee) US
+### IHS 执行委员会 (Executive Committee) US
 - 2022 -
 - 2021 -
 
-## IHS 公众号编辑委员会 (Editorial Committee)
+### IHS 公众号编辑委员会 (Editorial Committee)
 
 ### 现任编辑部成员：
   
 ### 曾任编辑部成员：
 
-## IHS **Business**
+### IHS **Business**
 
 ------------------
 
-## IHS常年征集志愿者 
+### IHS常年征集志愿者 
 
 报名请加微信群联系任意现任steering committee成员，联系方式请查阅[加入我们](mailto:ai.advanced.healthcare@gmail.com)
 
