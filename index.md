@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Intelligence Health Society
+title: Intelligence Health Society (IHS)
 tagline: 
 ---
 {% include JB/setup %}
