@@ -6,7 +6,7 @@ tagline: Advance AI in Biomedical, Genomics and Biology Research
 ---
 {% include JB/setup %}
 
-![]({{ site.url }}/images/Precision-Medicine-Ai2healthcare.png){:width="150%"}
+![]({{ site.url }}/images/Precision-Medicine-Shicheng-Guo.png){:width="150%"}
 
 <ul class="posts">
     {% for post in site.posts %}
