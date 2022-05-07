@@ -1,7 +1,7 @@
 ---
 layout: page
-title: main
-header: main
+title: About
+header:
 group: navigation
 ---
 
