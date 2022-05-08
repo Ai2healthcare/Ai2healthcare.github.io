@@ -18,7 +18,6 @@ IHS学术沙龙每周邀请一到两位学者就自己的研究课题进行学�
 
 #### 微信公众号：
 
-
 #### YouTuBe 和 B站：
 
 https://www.youtube.com/channel/UCwYrwLEn8p8ejz3CfUuvgkw
