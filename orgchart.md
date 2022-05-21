@@ -17,12 +17,6 @@ group: navigation
 - 2022 -
 - 2021 -
 
-### IHS 公众号编辑委员会 (Editorial Committee)
-
-#### 现任编辑部成员：
-  
-#### 曾任编辑部成员：
-
 ### IHS **Business**
 
 ------------------
