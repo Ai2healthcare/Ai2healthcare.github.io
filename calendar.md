@@ -5,7 +5,7 @@ header:
 group: navigation
 ---
 
-Ai2healthcare每周的讲座为美国东部时间周五晚上9点-11点
+Ai2healthcare每周的讲座为美国东部时间周五晚上9点-11点，对应北京时间周六早上9点-11点。
 
 
 #### 讲座日程
