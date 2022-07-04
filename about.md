@@ -31,11 +31,12 @@ https://github.com/Ai2healthcare
 
 **Platinum Sponsor!**
 
-[<img alt="" width="120px" src="images/Umabs-2022.png" />](https://umabs.com/)
 
 **Gold Sponsors!**
 
 [<img src="https://github.com/Ai2healthcare/Ai2healthcare.github.io/blob/main/images/Umabs-2022.png">](https://umabs.com/)
+
+[<img alt="" width="120px" src="images/Umabs-2022.png" />](https://umabs.com/)
 
 **Silver Sponsors!**
 
