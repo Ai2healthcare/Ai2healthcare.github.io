@@ -37,5 +37,4 @@ https://github.com/Ai2healthcare
 
 **Silver Sponsors!**
 
-
 **Bronze Sponsors!**
