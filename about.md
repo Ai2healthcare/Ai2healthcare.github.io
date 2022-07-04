@@ -37,4 +37,6 @@ https://github.com/Ai2healthcare
 
 **Silver Sponsors!**
 
+[<img alt="" width="40px" src="images/Umabs-2022.png" />](https://umabs.com/)
+
 **Bronze Sponsors!**
