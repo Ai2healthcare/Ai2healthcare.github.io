@@ -8,7 +8,7 @@ image: images/2022_05_29_AI_Network_pexels-pixabay-373543.jpg
 tags: bioinformatics, GWAS, Genomics, Disease, Human
 ---
 
-- 题目：AI制药“泡沫”背后的逻辑，AI制药的下一站在哪里？
+- 题目：数据驱动和基于物理接触的蛋白质-小分子相互作用预测
 - 时间：欧洲中部时间 2022 年 5 月 29 号（星期四）
 - Zoom会议 ID：861 0146 4725 密码：269044 
 - Zoom会议链接：https://us06web.zoom.us/j/86101464725?pwd=bXphV2NYdGRZeVRaZys0WnNjczF4Zz09
