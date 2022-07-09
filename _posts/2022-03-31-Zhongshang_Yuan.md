@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "两样本孟德尔随机化联合似然MRAID统计方法进行因果分析推断"
+title: "第2期：两样本孟德尔随机化联合似然MRAID统计方法进行因果分析推断"
 author: Dr. Zhongshan Yuan
 date: 2022-03-31
 categories: bioinformatics
