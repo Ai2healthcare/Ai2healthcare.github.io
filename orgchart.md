@@ -9,16 +9,6 @@ group: navigation
 - 2022 - 
 - 2021 -
 
-### IHS 秘书处 （Secretariat)
-- 2022 -
-- 2021 -
-
-### IHS 执行委员会 (Executive Committee) US
-- 2022 -
-- 2021 -
-
-### IHS **Business**
-
 ------------------
 
 ### IHS常年征集志愿者 
