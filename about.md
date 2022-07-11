@@ -35,8 +35,8 @@ https://github.com/Ai2healthcare
 
 **Gold Sponsors!**
 
-[<img alt="" width="240px" src="images/oebiotech.png" />](https://www.oebiotech.com/)
-[<img alt="" width="240px" src="images/Umabs-2022.png" />](https://umabs.com/)
+[<img alt="" width="240px" height="120px" src="images/oebiotech.png" />](https://www.oebiotech.com/)
+[<img alt="" width="240px" height="120px" src="images/Umabs-2022.png" />](https://umabs.com/)
 
 **Silver Sponsors!**
 
