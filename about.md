@@ -26,7 +26,7 @@ IHS学术沙龙每周邀请一到两位学者就自己的研究课题进行学�
 
 #### 人工智能程序集：
 
-https://github.com/Ai2healthcare
+[https://github.com/Ai2healthcare](https://github.com/Ai2healthcare)
 
 #### 特约赞助:
 
