@@ -3,7 +3,7 @@ layout: post
 title: "第2期：两样本孟德尔随机化联合似然MRAID统计方法进行因果分析推断"
 author: Dr. Zhongshan Yuan
 date: 2022-03-31
-categories: bioinformatics
+categories: 
 image: images/2022_Zhongshang_Yuan.jpg
 tags: bioinformatics, Mendelian randomization, horizontal pleiotropic effects, automated instrument selection, joint likelihood framework, Gibbs sampling
 ---
