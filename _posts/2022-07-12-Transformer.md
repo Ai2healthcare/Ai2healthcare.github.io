@@ -4,7 +4,7 @@ title: "第7期： 讲解Transformer, Encoder, Decoder, Self-attention"
 author: Hung-yi Lee 
 date: 2022-07-12
 categories: news
-image: images/41467_2021_23774_Fig1_HTML.png
+image: images/1_o0pS0LbXVw7i41vSISrw1A.png
 tags: bioinformatics, GWAS, Genomics, Disease, Human
 ---
 
