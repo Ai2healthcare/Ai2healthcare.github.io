@@ -35,7 +35,6 @@ IHS学术沙龙每周邀请一到两位学者就自己的研究课题进行学�
 
 **Gold Sponsors!**
 
-[<img alt="" width="240px" height="120px" src="images/oebiotech.png" />](https://www.oebiotech.com/)
 [<img alt="" width="240px" height="120px" src="images/Umabs-2022.png" />](https://umabs.com/)
 
 **Silver Sponsors!**
