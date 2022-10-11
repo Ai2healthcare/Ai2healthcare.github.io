@@ -4,7 +4,7 @@ title: "第4期：数据驱动和基于物理接触的蛋白质-小分子相互�
 author: 郑良振博士 | 钰沐菡 | 直播公开课
 date: 2022-05-29
 categories: news
-image: images/2022_05_29.jpg
+image: images/nih-common-fund-bridge2ai.jpg
 tags: bioinformatics, GWAS, Genomics, Disease, Human
 ---
 
