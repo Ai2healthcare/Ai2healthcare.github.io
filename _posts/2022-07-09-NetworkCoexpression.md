@@ -4,7 +4,7 @@ title: "第6期：Network-based omics integration, analysis, and visualization"
 author: Lars Juhl Jensen
 date: 2022-07-09
 categories: news
-image: images/41467_2021_23774_Fig1_HTML.png
+image: images/nih-common-fund-bridge2ai.jpg
 tags: bioinformatics, GWAS, Genomics, Disease, Human
 ---
 
