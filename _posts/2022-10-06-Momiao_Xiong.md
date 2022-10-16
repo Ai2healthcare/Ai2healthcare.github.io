@@ -19,3 +19,5 @@ tags: bioinformatics, GWAS, Genomics, Disease, Human
 
 * Momiao Xiong, Ph. D, Professor in Division of Biostatistics and Human Genetics Center, University of Texas School of Public Health. Dr. Xiong graduated from the Department of Statistics at the University of Georgia in 1993. From 1993 to 1995, Dr. Xiong was postdoctoral fellow at the University of Southern California working with Michael Waterman.
 
+* Research Interest, Statistical genetics, population genetics, computational systems biology and bioinformatics.
+
