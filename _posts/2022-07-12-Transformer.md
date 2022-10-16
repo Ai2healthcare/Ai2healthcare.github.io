@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "第7期：Transformer, Encoder, Decoder, Self-attention"
+title: "第7期:Transformer, Encoder, Decoder, Self-attention"
 author: Hung-yi Lee 
 date: 2022-07-12
 categories: news
