@@ -8,7 +8,7 @@ image: images/nih-common-fund-bridge2ai.jpg
 tags: bioinformatics, GWAS, Genomics, Disease, Human
 ---
 
-- 题目： 讲解Transformer, Encoder, Decoder, Self-attention
+- 题目： Transformer, Encoder, Decoder, Self-attention
 - 时间：欧洲中部时间 2022 年 7 月 12 号（星期四）
 - Zoom会议 ID：861 0146 4725 密码：269044 
 - Zoom会议链接：https://us06web.zoom.us/j/86101464725?pwd=bXphV2NYdGRZeVRaZys0WnNjczF4Zz09
