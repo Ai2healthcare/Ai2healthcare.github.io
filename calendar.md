@@ -11,4 +11,5 @@ Ai2healthcare每周的讲座为美国东部时间周五晚上9点-11点，对应
 #### 潜在或受邀请的讲座
 
 * Research on assistant diagnosis of fundus optic neuropathy based on deep learning
-* 
+* Development and validation of a predictive model combining clinical, radiomics, and deep transfer learning features for lymph node metastasis in early gastric cancer
+
