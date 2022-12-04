@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Intelligence Health Society (IHS)
+title: Differential Manifolds and Artificial Intelligence forum
 tagline: 
 ---
 {% include JB/setup %}
