@@ -5,6 +5,18 @@ header:
 group: navigation
 ---
 
+
+#### Introduction
+
+The Artificial Intelligence and Biomedicine Society (IHS) is a non-profit organization (AI2Health) voluntarily organized by Chinese scholars engaged in research on differential manifolds, artificial intelligence (AI) and biomedicine in North America. We aim to enhance communication, learning and cooperation among Chinese people engaged in artificial intelligence and biotechnology research. Every week, the association will invite academically outstanding scholars in their own fields to give academic reports on their own research topics. The report will be broadcast live or recorded on YouTube Channel or bilibili website mainly in Chinese or English. Welcome to Chinese students (including undergraduates, masters, Ph. participate.
+
+The IHS Academic Salon invites one or two scholars to give academic reports on their research topics every week. The report is mainly played on YouTube Channel and Bilibili in Chinese.
+
+We are in a period of great transformation from studying the natural laws of general physics and chemistry to studying the laws of human thinking and intelligent reasoning, and we are in the huge wave of the fourth industrial technological revolution that is going on like fire and tea middle. Artificial intelligence has moved from research confined to the study to science and technology, engineering practice, to medicine and health, and to all aspects of human society in ordinary daily life. The development of robots, driverless cars, unmanned factories, unmanned laboratories, unmanned aircraft, smart diagnostics, smart genomics and smart medicines is booming. In order to promote the rapid development of artificial intelligence and its wide application in health science and medicine, we will organize lectures, course teaching, report news about artificial intelligence and its wide application in health, conferences, papers, organize this Research in this field, discuss its development direction, exchange scientific research results and promote the cultivation of talents. The research and application of artificial intelligence is a public enterprise. We earnestly hope that professors, scientists, students, medical and health frontlines, and industry peers will participate and work together to build our community together, with a view to developing into a future that promotes artificial intelligence research and in health, medicine, and hygiene. Widely used, a society with great vitality.
+
+**[Welcome to join our WeChat group!] and Telegram also welcome Chinese scholars to introduce their academic work on this platform, contact Email: [Momiao.Xiong@gmail.com](mailto:Momiao.Xiong@gmail.com)
+
+
 #### 简介
 
 人工智能及生物医学协会（IHS）是由北美从事微分流形及人工智能(AI)及生物医药研究的华人学者自发组织的非营利组织(AI2Health)。 我们旨在增进从事人工智能及生物科技研究的华人之间的交流、学习和合作。 协会每周将会邀请在自己领域学术突出的学者就自己的研究课题进行学术汇报。汇报主要以中文或英文的形式在 YouTube Channel 或者 bilibili 网站直播或录播。 欢迎从事人工智能，计算机科学，遗传学、基因组学、生物信息学、生物统计学、进化生物学，神经生物学，分子生物学相关领域的华人同学（包括本、硕、博和博后）和老师参与。
