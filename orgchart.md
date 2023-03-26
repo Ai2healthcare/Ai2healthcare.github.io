@@ -4,12 +4,10 @@ title: Organization
 header: 
 group: navigation
 ---
+### IHS Volunteer Team
 
-### IHS 指导委员会 (Steering Committee)
-- 2022 - 
-- 2021 -
-
-------------------
+* Dr. Momiao Xiong, [https://scholar.google.com/citations?user=q1VY28gAAAAJ&hl=en](https://scholar.google.com/citations?user=q1VY28gAAAAJ&hl=en)
+* 
 
 ### IHS常年征集志愿者 
 
