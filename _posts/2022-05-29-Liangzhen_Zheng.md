@@ -2,7 +2,7 @@
 layout: post
 title: "MAIB-Talk-004: Data-Driven Prediction of Protein-Small Molecule Interactions"
 author: 郑良振博士 | 钰沐菡 | 直播公开课
-date: 2022-05-29
+date: 2022-04-30
 categories: news
 image: images/nih-common-fund-bridge2ai.jpg
 tags: bioinformatics, GWAS, Genomics, Disease, Human
