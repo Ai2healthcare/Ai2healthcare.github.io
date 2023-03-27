@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "第4期：数据驱动和基于物理接触的蛋白质-小分子相互作用预测"
+title: "MAIB-Talk-004: Data-Driven Prediction of Protein-Small Molecule Interactions"
 author: 郑良振博士 | 钰沐菡 | 直播公开课
 date: 2022-05-29
 categories: news
