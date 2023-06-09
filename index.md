@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Differential Manifolds and Artificial Intelligence Forum
+title: 
 tagline: 
 ---
 {% include JB/setup %}
