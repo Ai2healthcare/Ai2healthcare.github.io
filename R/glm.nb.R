@@ -1,3 +1,5 @@
+# https://stats.oarc.ucla.edu/r/dae/negative-binomial-regression/
+  
 require(foreign)
 require(ggplot2)
 require(MASS)
