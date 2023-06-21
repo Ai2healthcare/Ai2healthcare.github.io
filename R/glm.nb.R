@@ -21,5 +21,4 @@ table(dat$prog)
 library("tidyverse")
 dat<-dat %>% filter(grepl("General|Academic",prog))
 summary(m1 <- glm.nb(daysabs ~ prog, data = dat))
-
 t.test(daysabs ~ prog,dat)
