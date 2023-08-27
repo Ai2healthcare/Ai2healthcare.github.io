@@ -3,6 +3,7 @@ layout: page
 title: About
 header:
 group: navigation
+order: 1
 ---
 
 #### Introduction
