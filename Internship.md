@@ -3,6 +3,7 @@ layout: page
 title: SAIR Internship and Mentor-Mentee Program
 header:
 group: navigation
+order: 6
 ---
 
 SAIR Internship Program
