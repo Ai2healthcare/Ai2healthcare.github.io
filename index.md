@@ -7,6 +7,8 @@ tagline:
 
 ![]({{ site.url }}/images/Precision-Medicine-Ai2healthcare.png){:width="150%"}
 
+<a class="btn btn-default" href="https://docs.google.com/forms/d/e/1FAIpQLSd8HazdW3Z-g8IqYfKioPdoAMqRiecdTn5jooCBI4-5udWUIg/viewform?usp=sf_link">Join Email List For Weekly Update.</a>
+
 <ul class="posts">
     {% for post in site.posts %}
       <li>
