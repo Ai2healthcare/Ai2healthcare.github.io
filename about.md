@@ -42,4 +42,4 @@ Please feel free to contact us with Email:[Momiao.Xiong@gmail.com](mailto:Momiao
 
 **Bronze Sponsors!**
 
-[<img alt="" src="images/Umabs-2022.png" />](https://umabs.com/)
+[<img alt="" src="images/weixin2024.png" />](https://www.wecomput.com/)
